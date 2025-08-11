@@ -20,6 +20,7 @@ namespace Voxa
         private void Form1_Load(object sender, EventArgs e)
         {
             BackColor = Color.Red;
+            ForeColor = Color.Green;
         }
     }
 }
