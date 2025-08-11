@@ -1,0 +1,11 @@
+C:\Users\merab\OneDrive\Masaüstü\Voxa\Voxa\Voxa\bin\Debug\Voxa.exe.config
+C:\Users\merab\OneDrive\Masaüstü\Voxa\Voxa\Voxa\bin\Debug\Voxa.exe
+C:\Users\merab\OneDrive\Masaüstü\Voxa\Voxa\Voxa\bin\Debug\Voxa.pdb
+C:\Users\merab\OneDrive\Masaüstü\Voxa\Voxa\Voxa\obj\Debug\Voxa.csproj.AssemblyReference.cache
+C:\Users\merab\OneDrive\Masaüstü\Voxa\Voxa\Voxa\obj\Debug\Voxa.Form1.resources
+C:\Users\merab\OneDrive\Masaüstü\Voxa\Voxa\Voxa\obj\Debug\Voxa.Properties.Resources.resources
+C:\Users\merab\OneDrive\Masaüstü\Voxa\Voxa\Voxa\obj\Debug\Voxa.csproj.GenerateResource.cache
+C:\Users\merab\OneDrive\Masaüstü\Voxa\Voxa\Voxa\obj\Debug\Voxa.csproj.CoreCompileInputs.cache
+C:\Users\merab\OneDrive\Masaüstü\Voxa\Voxa\Voxa\obj\Debug\Voxa.exe
+C:\Users\merab\OneDrive\Masaüstü\Voxa\Voxa\Voxa\obj\Debug\Voxa.pdb
+C:\Users\merab\OneDrive\Masaüstü\Voxa\Voxa\Voxa\obj\Debug\Voxa.exe.config
